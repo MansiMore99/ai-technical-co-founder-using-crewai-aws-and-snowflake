@@ -1,6 +1,8 @@
 # secondBrain: AI Co-Founder — MVP (Snowflake + AWS Bedrock + FastAPI + Streamlit)
 Build your own always-on AI co-founder—powered by **AWS**, **CrewAI**, and **Snowflake**—that reads your business documents, tracks meetings, analyzes investor and market data, and gives you smart, actionable advice for founders, CEOs, HR managers, and busy professionals—all in one place.
 
+<img width="836" height="693" alt="Screenshot 2025-09-27 at 1 25 33 PM" src="https://github.com/user-attachments/assets/c52e9390-acca-44fd-96eb-4599f2c70c51" />
+
 #### 🔧 Tech stack
 
 * Frontend: Streamlit (simple chat UI)
