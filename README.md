@@ -1,7 +1,7 @@
-# secondBrain: AI Co-Founder — MVP (Snowflake + AWS Bedrock + FastAPI + Streamlit)
-Build your own always-on AI co-founder—powered by **AWS**, **CrewAI**, and **Snowflake**—that reads your business documents, tracks meetings, analyzes investor and market data, and gives you smart, actionable advice for founders, CEOs, HR managers, and busy professionals—all in one place.
+## secondBrain: A Multi-Agent Companion to Accelerate MVPs
+Build your own always-on AI technical Companion powered by **AWS**, **CrewAI**, and **Snowflake**—that reads your business documents, tracks meetings, analyzes investor and market data, and gives you smart, actionable advice for founders, CEOs, HR managers, and busy professionals—all in one place.
 
-<img width="813" height="692" alt="Screenshot 2025-09-27 at 1 28 14 PM" src="https://github.com/user-attachments/assets/4c649f52-d014-4b62-9d45-b0a6a7732c76" />
+<img width="892" height="789" alt="Screenshot 2025-09-27 at 1 41 56 PM" src="https://github.com/user-attachments/assets/02c6fbeb-7f4a-4f89-9594-c326ad122474" />
 
 #### 🔧 Tech stack
 
@@ -33,26 +33,28 @@ Answer (bullets + next steps) → back to UI
 #### 📊 Data model (demo tables)
 
 BUSINESS_STRATEGY: COMPANY, MISSION, GOALS, RISKS
+
 MEETING_NOTES: DATE, MEETING, NOTES, ACTION_ITEMS
+
 INVESTORS: NAME, FIRM, STAGE_FOCUS, LAST_INVESTMENT, NOTES
+
 MARKET_TRENDS: CATEGORY, YEAR, VALUATION, GROWTH_RATE
+
 COMPETITORS: NAME, STATUS, VALUATION
+
 STOCK_UPDATES: COMPANY, SYMBOL, PRICE, CHANGE
+
 CALENDAR_EVENTS: DATE, TIME, EVENT, PARTICIPANTS, NOTES
+
 CUSTOMER_FEEDBACK: CUSTOMER, FEEDBACK
 
 The router only pulls the minimum needed rows per question to keep responses fast, cheap, and grounded.
 
 #### ✅ Prerequisites
 
-Python 3.10+
-Snowflake access
-Account: 
-Warehouse: 
-Database: 
-Schema: 
-
-AWS Bedrock permissions in us-west-2 (InvokeModel for Anthropic Claude)
+* Python 3.10+
+* Snowflake access - Account, Warehouse, Database, Schema.
+* AWS Bedrock permissions in us-west-2 (InvokeModel for Anthropic Claude)
 
 ### ⚙️ Setup
 
