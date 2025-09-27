@@ -1,7 +1,7 @@
-## secondBrain: A Multi-Agent Companion to Accelerate MVPs
-Build your own always-on AI technical Companion powered by **AWS**, **CrewAI**, and **Snowflake**—that reads your business documents, tracks meetings, analyzes investor and market data, and gives you smart, actionable advice for founders, CEOs, HR managers, and busy professionals—all in one place.
+## secondBrain: A Multi-Agent Partner to Accelerate MVPs
+Build your own always-on AI technical Partner powered by **AWS**, **CrewAI**, and **Snowflake**—that reads your business documents, tracks meetings, analyzes investor and market data, and gives you smart, actionable advice for founders, CEOs, HR managers, and busy professionals—all in one place.
 
-<img width="892" height="789" alt="Screenshot 2025-09-27 at 1 41 56 PM" src="https://github.com/user-attachments/assets/02c6fbeb-7f4a-4f89-9594-c326ad122474" />
+<img width="847" height="794" alt="Screenshot 2025-09-27 at 2 00 56 PM" src="https://github.com/user-attachments/assets/55199867-594f-443e-b520-ae0276fc8841" />
 
 #### 🔧 Tech stack
 
